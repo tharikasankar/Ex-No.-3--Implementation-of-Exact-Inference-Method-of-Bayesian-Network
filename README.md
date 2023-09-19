@@ -18,6 +18,9 @@ Step 7: Print the results.<br>
 
 ## Program :
 ```
+Developed by: Tharika S
+Reg : 212222230159
+
 !pip install pgmpy
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
@@ -44,6 +47,6 @@ print(result)
 
 
 ## Result :
-
+Thus, the implementation of Exact Inference Method of Bayesian Network Is implemented Successfully.
 
 
